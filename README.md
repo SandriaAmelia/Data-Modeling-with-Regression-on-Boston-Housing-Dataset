@@ -1,1 +1,2 @@
 # Data Modeling with Regression on Boston Housing Dataset
+Project ini merupakan analisis regresi linier dengan menerapkan algoritma machine learning pada dataset "The Boston Housing." Analisis ini memberikan pemahaman mendalam tentang aplikasi regresi linier dalam konteks machine learning pada dataset tertentu. Evaluasi model menggunakan metrik tertentu membantu memahami sejauh mana model dapat memprediksi nilai rata-rata rumah dengan akurat.
